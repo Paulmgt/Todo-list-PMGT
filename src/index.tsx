@@ -80,7 +80,7 @@ const element = (
     <BigText>
       Coucou
       <br />
-      <span> nimporte quoi .......odjdkz</span>
+      <span> nimporte quoi ..........odjdkz</span>
     </BigText>
     <Hello name="Jean" />
     <Hello name="Pierre" age="23" />
