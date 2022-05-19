@@ -45,7 +45,7 @@ export default function TodoList() {
   //.................................................
 
   const OnTaskChange = (event: React.SyntheticEvent<HTMLInputElement>) => {
-    // console.log('valeur de Task : ' + task)
+    // console.log('valeur de Task : ' + task)......
 
     setTask(event.currentTarget.value)
 
