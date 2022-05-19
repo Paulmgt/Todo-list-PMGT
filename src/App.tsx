@@ -12,6 +12,8 @@ export default function App() {
           <Route path="/" element={<TodoList />} />
 
           <Route path="/test1" element={<h1> Test1 </h1>} />
+          <Route path="/Test2" element={<h1> Test2 </h1>} />
+
           <Route path="/Hello" element={<h1> Hello </h1>} />
         </Routes>
       </BrowserRouter>
