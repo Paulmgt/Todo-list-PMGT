@@ -1,3 +1,13 @@
+import { GlobalStyled } from './shared/ui'
+import TodoList from './todoList/TodoList'
+
 export default function App() {
-  return <h1>Todolist</h1>
+  return (
+    <>
+      <GlobalStyled />
+      <TodoList />
+    </>
+  )
 }
+
+//
